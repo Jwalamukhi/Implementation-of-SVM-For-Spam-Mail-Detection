@@ -9,8 +9,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Algorithm
 1.Data Preparation: Load and handle the dataset, separating features and target variables.
+
 2.Data Splitting: Split the dataset into training and testing sets.
+
 3.Feature Engineering: Transform text data into numerical feature vectors.
+
 4.Model Building and Evaluation: Initialize SVM classifier, train the model, and predict target labels for evaluation.
 
 
