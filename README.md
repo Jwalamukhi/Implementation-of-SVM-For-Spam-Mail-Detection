@@ -57,7 +57,6 @@ print(cl)
 
 ## Output:
 data:
-
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/9ec509f4-82a8-411d-8d46-32320d4f966c)
 
 
@@ -68,6 +67,7 @@ data.shape:
 
 
 x_shape:
+
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/310d0493-f627-4e17-82e2-461d0d6dcbf3)
 
 
@@ -76,13 +76,16 @@ y_shape:
 
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/abb8d48b-1e80-4838-86f2-8e949f29e83a)
 
+
 x_train:
 
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/db2e00b6-c02c-408f-ae83-e6598538635d)
 
+
 x_train.shape:
 
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/a7629527-1d1b-409f-ab2c-411ed0c04f6f)
+
 
 y_pred:
 
@@ -91,6 +94,7 @@ y_pred:
 accuracy:
 
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/a7368ce9-eea8-4b5c-8707-c68ec94a6a85)
+
 
 confusion matrix
 
