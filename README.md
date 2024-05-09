@@ -52,6 +52,7 @@ y_pred
 
 ## Output:
 head():
+
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/b5caaaa7-4e20-4a6b-8f0c-88b82c5997dd)
 
 
