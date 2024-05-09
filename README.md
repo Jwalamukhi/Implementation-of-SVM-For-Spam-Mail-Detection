@@ -54,11 +54,14 @@ y_pred
 head():
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/b5caaaa7-4e20-4a6b-8f0c-88b82c5997dd)
 
+
 info():
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/19ac04b1-bca9-4845-a136-7dafbfdebe11)
 
+
 isnull().sum():
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/108b112b-ca5c-473e-b679-1ca6dfd6cbb7)
+
 
 predicted values:
 ![image](https://github.com/Jwalamukhi/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145953628/c678117f-72e4-406a-8426-d913885b1fc0)
